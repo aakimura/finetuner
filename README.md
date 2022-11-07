@@ -60,7 +60,7 @@ the model).
 Token|Description|
 |---|---|
 |` ` (whitespace)| Start every completion with a whitespace so GPT-3 knows where it starts|
-|`\n`|If expect multi-part completions, like the entity extraction example from above|
+|`\n`|If you expect multi-part completions, like the entity extraction example from above|
 |`###`, ` END`, etc.|Stop sequence to indicate where the completion ends. Needs to be different to the prompt's ending token.
 
 ## Why I wrote these scripts
