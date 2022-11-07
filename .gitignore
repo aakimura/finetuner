@@ -1,0 +1,9 @@
+# Folders
+*/__pycache__
+
+# Files
+.DS_Store
+
+# File types
+*.code-workspace
+*.pyc
